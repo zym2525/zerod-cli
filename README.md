@@ -1,0 +1,2 @@
+# zerod-cli
+zerod-cli
