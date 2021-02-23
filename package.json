@@ -1,5 +1,5 @@
 {
-  "name": "zerod-cli",
+  "name": "@zero-d/zerod-cli",
   "version": "1.0.0",
   "description": "zerod-cli",
   "main": "./bin/zerod.js",
@@ -10,10 +10,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it"
   },
-  "keywords": [
-    "zerod",
-    "cli"
-  ],
   "author": "zym",
   "license": "ISC",
   "dependencies": {
@@ -51,6 +47,7 @@
   },
   "homepage": "https://github.com/zym2525/zerod-cli#readme",
   "devDependencies": {
+    "@release-it/conventional-changelog": "^2.0.1",
     "release-it": "^14.4.1"
   }
 }
