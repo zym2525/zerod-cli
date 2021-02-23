@@ -7,7 +7,8 @@
     "zerod": "./bin/zerod.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
   },
   "keywords": [
     "zerod",
@@ -37,5 +38,19 @@
   },
   "engines": {
     "node": ">=8.9"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zym2525/zerod-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zym2525/zerod-cli/issues"
+  },
+  "homepage": "https://github.com/zym2525/zerod-cli#readme",
+  "devDependencies": {
+    "release-it": "^14.4.1"
   }
 }
