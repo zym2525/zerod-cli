@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "release-it"
+    "release": "dotenv release-it --"
   },
   "author": "zym",
   "license": "ISC",
@@ -48,6 +48,7 @@
   "homepage": "https://github.com/zym2525/zerod-cli#readme",
   "devDependencies": {
     "@release-it/conventional-changelog": "^2.0.1",
+    "dotenv-cli": "^4.0.0",
     "release-it": "^14.4.1"
   }
 }
