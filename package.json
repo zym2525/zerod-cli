@@ -30,7 +30,7 @@
     "semver": "^7.3.2",
     "strip-ansi": "^6.0.0",
     "validate-npm-package-name": "^3.0.0",
-    "zerod-template": "git+https://github.com/zym2525/template.git"
+    "@zero-d/zerod-template": "^1.0.8"
   },
   "engines": {
     "node": ">=8.9"
