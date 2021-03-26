@@ -1,6 +1,6 @@
 {
   "name": "@zero-d/zerod-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "zerod-cli",
   "main": "./bin/zerod.js",
   "bin": {
