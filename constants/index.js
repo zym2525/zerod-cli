@@ -1,5 +1,6 @@
 const TemplateNameType = {
     rnapp: 'rn-app',
+    rnappts: 'rn-app-ts',
     vueweb: 'vue-web',
 }
 
